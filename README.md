@@ -1,4 +1,4 @@
-### Olá! Meu nome é Amanda Cruz
+### Olá! Meu nome é Amanda
 
 ✨ Estudando para ser uma programadora front-end <p>
 🌱 Estou aprendendo: JavaScript <p>
