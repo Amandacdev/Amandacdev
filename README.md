@@ -2,7 +2,8 @@
 
 ✨ Estudando para ser uma programadora front-end <p>
 🌱 Estou aprendendo: JavaScript <p>
-👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira
+👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
+💻 Meus primeiros projetos 💜 ➡ https://amandacdev.github.io/Certificard/ 
 
 <div align="center">
   <a href="https://github.com/Amandacdev">
