@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Amanda
 
 ✨ Estudando para ser uma programadora front-end <p>
-🌱 Estou aprendendo: JavaScript <p>
+🌱 Estou aprendendo: JavaScript, Python <p>
 👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
 💻 Meus primeiros projetos: https://amandacdev.github.io/Certificard/ 
 
