@@ -3,6 +3,7 @@
 ✨ Estudando para ser uma programadora <p>
 🌱 Estou aprendendo: JavaScript, Python <p>
 👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
+📚 Aluna do curso Sistemas para Internet, do Instituto Federal da Paraíba (IFPB) <p>
 💻 Meus primeiros projetos: https://amandacdev.github.io/Certificard/ 
 
 <div align="center">
