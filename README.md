@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Meu nome é Amanda 😄 </h1>
 
 📚 Aluna do curso Sistemas para Internet, do Instituto Federal da Paraíba (IFPB) <p>
-🌱 Tecnologias: HTML, CSS, Python, JavaScript, Java, MySQL <p>
+🌱 Tecnologias: HTML, CSS, Python, JavaScript, Java, SQL <p>
 👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
 💻 Meus primeiros projetos: https://amandacdev.github.io/Certificard/ 
 
