@@ -1,6 +1,5 @@
 <h1 align="center"> Olá! Meu nome é Amanda 😄 </h1>
 
-✨ Estudando para ser uma programadora <p>
 📚 Aluna do curso Sistemas para Internet, do Instituto Federal da Paraíba (IFPB) <p>
 🌱 Tecnologias: HTML, CSS, Python, JavaScript, Java, MySQL <p>
 👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
