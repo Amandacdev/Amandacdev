@@ -1,16 +1,15 @@
-### Olá! Meu nome é Amanda
+<h1 align="center"> Olá! Meu nome é Amanda 😄 </h1>
 
 ✨ Estudando para ser uma programadora <p>
-🌱 Tecnologias: HTML, CSS, JavaScript, Python <p>
-👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
 📚 Aluna do curso Sistemas para Internet, do Instituto Federal da Paraíba (IFPB) <p>
+🌱 Tecnologias: HTML, CSS, Python, JavaScript, Java, MySQL <p>
+👩‍🔬 Sou graduada em Biotecnologia, estou em processo de mudança de carreira <p>
 💻 Meus primeiros projetos: https://amandacdev.github.io/Certificard/ 
 
 <div align="center">
   <a href="https://github.com/Amandacdev">
   <a href= "https://www.linkedin.com/in/amanda-cruz-de-ara%C3%BAjo-092987215/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandacdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacdev&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
     
  <div style="display: inline_block"><br>
