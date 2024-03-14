@@ -5,7 +5,6 @@
 📚 Student of the Internet Systems course, at the Federal Institute of Paraíba (IFPB) <p>
 🌱 Technologies: HTML, CSS, Python, JavaScript, Typescript, Java, SQL <p>
 👩‍🔬 I have a degree in Biotechnology, I am in the process of changing career <p>
-💻 My first projects: https://amandacdev.github.io/Certificard/
 
 <div align="center">
   <a href="https://github.com/Amandacdev">
