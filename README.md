@@ -38,6 +38,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandacrz/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amandacdev.github.io/amanda-cruz-portfolio/)
-<a><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a target="_blank" href="mailto:amanda10jp@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- ![Snake animation](https://github.com/Amandacdev/Amandacdev/blob/output/github-contribution-grid-snake.svg) -->
