@@ -24,7 +24,7 @@
 
  <div style="display: inline-block;">
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML"><img style="width: 60px;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Imagem da logo do HTML"></a>
-    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img style="width: 60px;" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="Imagem da logo do css"></a>
+    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img style="width:68px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" alt="Imagem da logo do css"></a>
     <a target="_blank" href="https://www.javascript.com/"><img style="width: 60px;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Imagem da logo do JavaScript"></a>
     <a target="_blank" href="https://react.dev/"><img style="width: 60px;" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" alt="Imagem da logo do React"></a>
     <a target="_blank" href="https://www.mysql.com/"><img style="width: 60px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Imagem da logo do MySQL"></a>
